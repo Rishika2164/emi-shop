@@ -43,19 +43,19 @@ const PRODUCTS = [
       {
         storage: '256GB', color: 'Silver', color_hex: '#E3E4E5',
         mrp: 134900, price: 127400, is_default: 1,
-        image_url: 'https://images.unsplash.com/photo-1592286927505-1def25115481?w=600',
+        image_url: 'https://images.unsplash.com/photo-1557968623-bb7601aae078?w=600',
         cashback: 7500,
       },
       {
         storage: '256GB', color: 'Cosmic Orange', color_hex: '#C96A3B',
         mrp: 134900, price: 127400,
-        image_url: 'https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600',
+        image_url: 'https://images.unsplash.com/photo-1557968623-bb7601aae078?w=600',
         cashback: 7500,
       },
       {
         storage: '512GB', color: 'Deep Blue', color_hex: '#2C3E50',
         mrp: 154900, price: 147400,
-        image_url: 'https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600',
+        image_url: 'https://images.unsplash.com/photo-1557968623-bb7601aae078?w=600',
         cashback: 7500,
       },
     ],
