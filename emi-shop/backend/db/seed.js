@@ -43,7 +43,7 @@ const PRODUCTS = [
       {
         storage: '256GB', color: 'Silver', color_hex: '#E3E4E5',
         mrp: 134900, price: 127400, is_default: 1,
-        image_url: 'https://images.unsplash.com/photo-1557968623-bb7601aae078?w=600',
+        image_url: 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKwuNngy_s8fYX3v7cvliC3OfEh4PH6OhuCZ7WDwMCnp1dAwdZbQkTawtiHx1PGAVEOqn13g6DRboefl7r1HQNcyOUKjqoZw',
         cashback: 7500,
       },
       {
