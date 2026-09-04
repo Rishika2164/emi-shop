@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+*.log
+
+# SQLite files — keep schema.sql and seed.js in git, not the generated db
+backend/db/*.db
+backend/db/*.db-journal
+backend/db/*.db-wal
+backend/db/*.db-shm
